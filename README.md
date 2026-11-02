@@ -60,6 +60,10 @@ This uses your own account to do what you could do by hand on the website. Keep 
 
 Not affiliated with nemlig.com.
 
+## About
+
+Made by [Skarnlabs](https://skarnlabs.dk) in Denmark, shared for the Danish community.
+
 ## License
 
 MIT
